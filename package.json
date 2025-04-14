@@ -1,0 +1,7 @@
+/src
+  App.jsx
+  main.jsx
+/public
+  index.html
+vite.config.js
+package.json
